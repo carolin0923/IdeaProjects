@@ -17,6 +17,8 @@ public class Lutador {
         this.vitorias = vitorias;
         this.derrotas = derrotas;
         this.empates = empates;
+
+        // hello world
     }
 
     //métodos especias
